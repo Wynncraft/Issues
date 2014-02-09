@@ -1,6 +1,8 @@
 Wynncraft Issues
 ======
 
+![Wynncraft Logo](http://wynncraft.com/img/logo.png.pagespeed.ce.4sOiHqVXRM.png)
+
 Welcome to the Fall-back Wynnncraft Issue Tracker
 
 Issue Best Practices
