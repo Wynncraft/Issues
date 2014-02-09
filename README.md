@@ -1,9 +1,7 @@
-Wynncraft Issues
-======
-
-![Wynncraft Logo](http://wynncraft.com/img/logo.png.pagespeed.ce.4sOiHqVXRM.png)
-
 Welcome to the Fall-back Wynnncraft Issue Tracker
+======
+__Important: please exercise responsible disclosure if you find a duplication or security glitch email `support@wynncraft.com` and you may be rewarded__
+
 
 Issue Best Practices
 -----
@@ -11,5 +9,10 @@ Issue Best Practices
 * Make sure to post screenshots of the issue
 * Include a detailed step-by-step guide on how to reproduce the issue
 * Remember to tag `@wynncraft/web`for web issues and `@wynncraft/game` for game issues
-* Exercise responsible disclosure if you find a duplication or security glitch email `support@wynncraft.com` and you may be rewarded
-* We will not address any personal issues here please visit [http://wynncraft.com/support](http://wynncraft.com/support) for support
+* Use [GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown/) to format your post
+
+
+Issue Worst Practices
+-----
+* Do not bump issues
+* Do not post personal issues or appeal bans (please visit [http://wynncraft.com/support](http://wynncraft.com/support) for support)
