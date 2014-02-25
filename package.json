@@ -1,0 +1,14 @@
+{
+    "name": "Wynncraft",
+    "private": true,
+    "devDependencies": {
+        "gulp": "3.5.x",
+        "gulp-minify-css": "0.3.x",
+        "gulp-ruby-sass": "0.3.x",
+        "gulp-autoprefixer": "0.0.x",
+        "gulp-imagemin": "0.1.x",
+        "gulp-watch": "0.5.x",
+        "gulp-rename": "1.1.x",
+        "gulp-clean": "0.2.x"
+    }
+}
