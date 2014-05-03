@@ -1,7 +1,5 @@
 Welcome to the Fall-back Wynnncraft Issue Tracker
 ======
-[![Dependency Status](https://gemnasium.com/Wynncraft/Issues.png)](https://gemnasium.com/Wynncraft/Issues)
-
 __Important: please exercise responsible disclosure if you find a duplication or security glitch email `support@wynncraft.com` and you may be rewarded__
 
 
