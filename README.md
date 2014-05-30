@@ -1,6 +1,6 @@
 Welcome to the Fall-back Wynnncraft Issue Tracker
 ======
-__Important: please exercise responsible disclosure if you find a duplication or security glitch email `support@wynncraft.com` and you may be rewarded__
+__Important: please exercise responsible disclosure if you find a duplication or security glitch email `support@wynncraft.com` and you may be rewarded :shipit:__
 
 
 Issue Best Practices
@@ -16,3 +16,4 @@ Issue Worst Practices
 -----
 * Do not bump issues
 * Do not post personal issues or appeal bans (please visit [http://wynncraft.com/support](http://wynncraft.com/support) for support)
+* Re-open issues that have been closed for a valid reason
