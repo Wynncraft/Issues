@@ -16,4 +16,4 @@ Issue Worst Practices
 -----
 * Do not bump issues
 * Do not post personal issues or appeal bans (please visit [http://wynncraft.com/support](http://wynncraft.com/support) for support)
-* Re-open issues that have been closed for a valid reason
+* Do not Re-open issues that have been closed for a valid reason
