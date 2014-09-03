@@ -1,7 +1,3 @@
-![logo](http://wynncraft.com/assets/img/logo.png)
-
-# Welcome to the Wynnncraft Issue Tracker
-
 ## Should I post an issue?
 * If your issue is releated to individual payments or account support please email support@wynncraft.com instead of posting the issue here.
 * __Pro Tip!__ If you think you've found an exploit, don't post the issue here instead contact support@wynncraft.com 
