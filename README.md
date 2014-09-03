@@ -8,6 +8,7 @@
 
 ## Posting an issue
 Creating a new issue on the tracker is simple:
+
 1. Head to https://github.com/Wynncraft/Issues/issues/new
 2. Give the issue an appropriate title __Powders not working__ instead of __Powders__ - remember specific titles can help use eradicate duplicates on the public and internal issue tracker.
 3. Describe the issue with a short summary, followed by steps on how to reproduce the issue - http://daringfireball.net/projects/markdown/syntax describes the syntax to use for formating. 
