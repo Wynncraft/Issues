@@ -16,3 +16,5 @@ Creating a new issue on the tracker is simple:
 9. Describe the issue with a short summary, followed by steps on how to reproduce the issue - http://daringfireball.net/projects/markdown/syntax describes the syntax to use for formatting.
 
 __Pro Tip!__ Although this step is optional it's really helpful when (if possible) you can include a screenshot of the issue that you're describing (drag and drop works).
+
+**A Word to The Wise**: As of 5/8/2016, if you post an image that shows that you have entity radar turned on in a minimap, that information may be passed on to the game moderators, without further notice to you.  Play Fair!
