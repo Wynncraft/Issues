@@ -17,4 +17,4 @@ Creating a new issue on the tracker is simple:
 
 __Pro Tip!__ Although this step is optional it's really helpful when (if possible) you can include a screenshot of the issue that you're describing (drag and drop works).
 
-A Word to The Wise: As of 5/8/2016, if you post an image that shows that you have entity radar turned on in a minimap, that information may be passed on to the game moderators, without further notice to you.  Play Fair!
+**A Word to The Wise**: As of 5/8/2016, if you post an image that shows that you have entity radar turned on in a minimap, that information may be passed on to the game moderators, without further notice to you.  Play Fair!
