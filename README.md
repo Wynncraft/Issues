@@ -6,7 +6,7 @@
 Creating a new issue on the tracker is simple:
 
 1. Use the search bar on the top navigation bar to search for your issue first.
-2. If, for example, if you searched for "pelier", which is the name of a piece of armour in WynnCraft, the search would return this message: **We couldn't find any code matching 'pelier'**.  That tells you that your search found nothing in code, which is the default search type, because the WynnCraft GitHub Issue Tracker is not used for code.
+2. If, for example, if you searched for "pelier", which is the name of a piece of armour in WynnCraft, the search would return this message: **We couldn't find any code matching 'pelier'**.  That tells you that your search found nothing in code, which is the default search type, but the WynnCraft GitHub Issue Tracker is not used for code.
 3. There is an option in the search results on the far left to switch your search from **Code** to Issues.  Switch to **Issues**.
 4. The search page now says: **We've found XY issues**, and on the far left, under the heading **States**, you find that some are closed, and some are open.  On the far right side of the page, you see that the default search listing is by **Best Match**.
 5. Change the search listing to **Newest**, and scroll through the page(s).  Some issues may be marked with a green tag of an exclamation point in a circle.  Those issues are still open.  The other listed issues, with red tags, are closed.
