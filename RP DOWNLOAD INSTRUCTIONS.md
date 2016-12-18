@@ -8,4 +8,4 @@
 7. Move the legacy folder into the resourcepacks folder in your minecraft folder. 
 
 ## Windows
-1. You should be able to download the repository entitled "legacy" and be able to just throw it into your minecraft folder. 
+1. You should be able to download the repository entitled "legacy" and be able to just throw it into your resourcepack folder, which is in your minecraft folder. 
