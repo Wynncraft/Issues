@@ -2,8 +2,7 @@ The current Resource Pack will be uploaded here, on an as-needed basis.  It may 
 If you need to manually download the resource pack, just click on the resource pack file, then click the download link.
 After you get the file, move or copy it to your server-resource-packs file in your Minecraft directory, and you should be good to go.
 To locate your Minecraft directory:
-##WINDOWS
-Open File Explorer, and in the address bar, navigate to %appdata%, click on Roaming and look for a .minecraft folder.
-##MacOS
-Open Finder, hit Command-Shift-G and copy-paste the following: ~/Library/Application Support/minecraft
+To locate your Minecraft directory:
+On Windows: Open File Explorer, and in the address bar, navigate to %appdata%, click on Roaming and look for a .minecraft folder.
+On macOS: Open Finder, hit Command-Shift-G and copy-paste the following: ~/Library/Application Support/Minecraft
 If you have any trouble with it, please let us know, and we will do our best to help you.
