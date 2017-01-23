@@ -40,4 +40,4 @@ Once you have submitted your issue to the issue tracker, you need you have patie
 
 Thanks, and we hope you use this guide to improve the quality of our GitHub issue tracker.
 
-**A Word to The Wise**: As of 5/8/2016, if you post an image which breaks the rules and/or shows that you have entity radar turned on in a minimap, that information will be passed on to the game moderators, without further notice to you.  Play Fair!
+**A Word to The Wise**: As of 5/8/2016, if you post an image which breaks the rules and/or shows that you have entity radar turned on in a minimap, that information will be passed on to the game moderators, without further notice to you. Play Fair!
