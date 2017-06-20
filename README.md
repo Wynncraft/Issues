@@ -1,5 +1,6 @@
 ## Should I post an issue?
 * If your issue is related to individual payments or account support, please email support@wynncraft.com instead of posting the issue here.
+* Read the [FAQ](FAQ.md) and see if your solution is there. 
 * __Pro Tip!__ If you think you've found an exploit, don't post the issue here. Instead, private message a moderator on our forums at https://forums.wynncraft.com/
 
 ## Posting an issue
